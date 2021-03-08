@@ -9,5 +9,6 @@ For face recognition, we are using the base architecture of the MobileNetV2 (CNN
 In case face recognition failed, the software estimates the age & gender of the person in the image. For the age & gender estimation, we designed a CNN (Convolutional Neural Network) model that predict both, the age and the gender.
 Our system established under a flow of eight main steps, as depicted in the EPC (Event-driven Process Chain) diagram below.
 At the end of the processes chain, the expected data will be posted to the WEB system.
+
 ![image](https://user-images.githubusercontent.com/46426884/110316557-93f56900-8013-11eb-81b3-4c154ff847dc.png)
 
